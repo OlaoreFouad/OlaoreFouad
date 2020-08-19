@@ -1,7 +1,17 @@
-### Hello one two, hello tueh tueh, hello. (taps mic) 👋
+### Hi👋🏾, I'm Fouad. A developer, writer and a tech bro.
 
-I'm a software engineer currently working as an Intern at GlobalAccelerex Ltd. Currently based in Nigeria, I love taking up challenges, learning new things as days go by and at the same time, impacting people around me by exposing them to various concepts I feel needs to be explained and viewed from a better perspective.
+- I am currently interning at Global Accelerex Ltd.☕
+- I build native android apps with the Android mobile framework, and also web experiences using Angular.👤
+- I love solving problems when I can, while making sure optimal solutions are provided.😉
+- I <a href="https://medium.com/@olaolaore" target="_blank">write on topics</a> I feel the community would benefit from, it's my way of easing processes for engineers around the world, **If I've figured it out, you have.**😁😁
+- I hope to contribute to OSS more (very soon)🎉🎉🎉
+- I am also fascinated by the business world, really.👴🏾
 
-I build applications for native mobile and web using the Android and Angular frameworks respectively. I have experience working in teams of highly skilled professionals and design-minded developers. I love collaborating with people to produce highly scalable and quality software. I also write  technical articles that help improve the community.
+## Recent Blog Posts
+1. <a href="https://medium.com/@olaolaore/getting-started-with-spannables-on-android-46a051d484ec" target="_blank">Getting Started with Spannables on Android</a>
+2. <a href="https://medium.com/android-dev-hacks/a-kotlin-based-introduction-to-compound-components-on-android-part-3-eeb7c9250392" target="_blank">A Kotlin-based Introduction to Compound Components on Android - Part 3</a>
+3. <a href="https://medium.com/android-dev-hacks/a-kotlin-based-introduction-to-compound-components-on-android-part-2-f33d7179b5c8" target="_blank">A Kotlin-based Introduction to Compound Components on Android - Part 2</a>
 
-Getting better, one line of code and project at a time.
+See all posts <a href="https://medium.com/@olaolaore">here</a>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OlaoreFouad&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
