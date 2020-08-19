@@ -1,4 +1,4 @@
-### Hi👋🏾, I'm Fouad. A developer, writer and a tech bro.
+### Hi👋🏾, I'm <a href="https://portfolio-rho-two.vercel.app">Fouad</a>. A developer, writer and a tech bro.
 
 - I am currently interning at Global Accelerex Ltd.☕
 - I build native android apps with the Android mobile framework, and also web experiences using Angular.👤
