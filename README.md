@@ -3,7 +3,7 @@
 - I am currently interning at Global Accelerex Ltd.☕
 - I build native android apps with the Android mobile framework, and also web experiences using Angular.👤
 - I love solving problems when I can, while making sure optimal solutions are provided.😉
-- I <a href="https://medium.com/@olaolaore" target="_blank">write on topics</a> I feel the community would benefit from, it's my way of easing processes for engineers around the world, **If I've figured it out, you have.**😁😁
+- I <a href="https://medium.com/@olaolaore" target="_blank">write on topics</a> I feel the community would benefit from, it's my way of easing processes for engineers around the world, **If I've figured it out, you have.** 😁😁
 - I hope to contribute to OSS more (very soon)🎉🎉🎉
 - I am also fascinated by the business world, really.👴🏾
 
