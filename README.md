@@ -1,7 +1,7 @@
 ### Hi👋🏾, I'm <a href="https://portfolio-rho-two.vercel.app">Fouad</a>. A developer, writer and a tech bro.
 
-<a href="https://twitter.com/olaolaore"><img src="images/twitter.png" width="20" /></a>
-<a href="https://linkedin.com/olaore-fouad"><img src="images/linkedin.png" width="20" /></a>
+<a href="https://twitter.com/olaolaore"><img src="https://github.com/OlaoreFouad/OlaoreFouad/images/twitter.png" width="20" /></a>
+<a href="https://linkedin.com/olaore-fouad"><img src="https://github.com/OlaoreFouad/OlaoreFouad/images/linkedin.png" width="20" /></a>
 
 - I am currently interning at Global Accelerex Ltd.☕
 - I build native android apps with the Android mobile framework, and also web experiences using Angular.👤
@@ -12,17 +12,17 @@
 
 Languages and Tools
 
-<code><img src="images/android.png" width="30" /></code>
-<code><img src="images/angular.png" width="30" /></code>
-<code><img src="images/firebase.png" width="30" /></code>
-<code><img src="images/github.png" width="30" /></code>
-<code><img src="images/java.png" width="30" /></code>
-<code><img src="images/javascript.png" width="30" /></code>
-<code><img src="images/jira.png" width="30" /></code>
-<code><img src="images/kotlin.png" width="30" /></code>
-<code><img src="images/trello.png" width="30" /></code>
-<code><img src="images/typescript.png" width="30" /></code>
-<code><img src="images/visualstudio.svg" width="30" /></code>
+<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/images/android.png" width="30" /></code>
+<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/images/angular.png" width="30" /></code>
+<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/images/firebase.png" width="30" /></code>
+<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/images/github.png" width="30" /></code>
+<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/images/java.png" width="30" /></code>
+<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/images/javascript.png" width="30" /></code>
+<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/images/jira.png" width="30" /></code>
+<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/images/kotlin.png" width="30" /></code>
+<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/images/trello.png" width="30" /></code>
+<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/images/typescript.png" width="30" /></code>
+<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/images/visualstudio.svg" width="30" /></code>
 
 ## Recent Blog Posts
 1. <a href="https://medium.com/@olaolaore/getting-started-with-spannables-on-android-46a051d484ec" target="_blank">Getting Started with Spannables on Android</a>
