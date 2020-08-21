@@ -7,6 +7,8 @@
 - I hope to contribute to OSS more (very soon)🎉🎉🎉
 - I am also fascinated by the business world, really.👴🏾
 
+Languages and Tools
+
 ## Recent Blog Posts
 1. <a href="https://medium.com/@olaolaore/getting-started-with-spannables-on-android-46a051d484ec" target="_blank">Getting Started with Spannables on Android</a>
 2. <a href="https://medium.com/android-dev-hacks/a-kotlin-based-introduction-to-compound-components-on-android-part-3-eeb7c9250392" target="_blank">A Kotlin-based Introduction to Compound Components on Android - Part 3</a>
