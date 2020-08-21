@@ -1,7 +1,7 @@
 ### Hi👋🏾, I'm <a href="https://portfolio-rho-two.vercel.app">Fouad</a>. A developer, writer and a tech bro.
 
 <a href="https://twitter.com/olaolaore"><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/twitter.png" width="30" /></a>
-<a href="https://linkedin.com/olaore-fouad"><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/linkedin.png" width="30" /></a>
+<a href="https://www.linkedin.com/in/olaore-fouad-860b4b180"><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/linkedin.png" width="30" /></a>
 
 - I am currently interning at Global Accelerex Ltd.☕
 - I build native android apps with the Android mobile framework, and also web experiences using Angular.👤
