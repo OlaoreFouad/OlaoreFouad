@@ -12,17 +12,17 @@
 
 Languages and Tools
 
-<img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/android.png" width="30" />
-<img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/angular.png" width="30" />
-<img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/firebase.png" width="30" />
-<img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/github.png" width="30" />
-<img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/java.png" width="30" />
-<img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/javascript.png" width="30" />
-<img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/jira.png" width="30" />
-<img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/kotlin.png" width="30" />
-<img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/trello.png" width="30" />
-<img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/typescript.png" width="30" />
-<img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/visualstudio.svg" width="30" />
+<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/android.png" width="30" /></code>
+<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/angular.png" width="30" /></code>
+<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/firebase.png" width="30" /></code>
+<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/github.png" width="30" /></code>
+<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/java.png" width="30" /></code>
+<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/javascript.png" width="30" /></code>
+<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/jira.png" width="30" /></code>
+<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/kotlin.png" width="30" /></code>
+<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/trello.png" width="30" /></code>
+<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/typescript.png" width="30" /></code>
+<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/visualstudio.svg" width="30" /></code>
 
 ## Recent Blog Posts
 1. <a href="https://medium.com/@olaolaore/getting-started-with-spannables-on-android-46a051d484ec" target="_blank">Getting Started with Spannables on Android</a>
