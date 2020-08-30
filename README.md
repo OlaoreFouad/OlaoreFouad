@@ -10,19 +10,19 @@
 - I hope to contribute to OSS more (very soon)🎉🎉🎉
 - I am also fascinated by the business world, really.👴🏾
 
-Languages and Tools
+#### Languages and Tools
 
-<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/android.png" width="30" /></code>
-<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/angular.png" width="30" /></code>
-<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/firebase.png" width="30" /></code>
-<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/github.png" width="30" /></code>
-<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/java.png" width="30" /></code>
-<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/javascript.png" width="30" /></code>
-<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/jira.png" width="30" /></code>
-<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/kotlin.png" width="30" /></code>
-<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/trello.png" width="30" /></code>
-<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/typescript.png" width="30" /></code>
-<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/visualstudio.svg" width="30" /></code>
+<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/android.png" width="30" title="Android" /></code>
+<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/angular.png" width="30" title="Angular" /></code>
+<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/firebase.png" width="30" title="Firebase" /></code>
+<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/github.png" width="30" title="GitHub" /></code>
+<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/java.png" width="30" title="Java" /></code>
+<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/javascript.png" width="30" title="JavaScript" /></code>
+<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/jira.png" width="30" title="Jira" /></code>
+<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/kotlin.png" width="30" title="Kotlin" /></code>
+<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/trello.png" width="30" title="Trello" /></code>
+<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/typescript.png" width="30" title="TypeScript" /></code>
+<code><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/visualstudio.svg" width="30" title="Visual Studio Code" /></code>
 
 ## Recent Blog Posts
 1. <a href="https://medium.com/@olaolaore/getting-started-with-spannables-on-android-46a051d484ec" target="_blank">Getting Started with Spannables on Android</a>
