@@ -1,4 +1,4 @@
-### Hi👋🏾, I'm <a href="https://portfolio-rho-two.vercel.app">Fouad</a>. A developer, writer and a tech bro.
+### Hi👋🏾, I'm <a href="https://olaore.dev">Fouad</a>. A developer, writer and a tech bro.
 
 <a href="https://twitter.com/olaolaore"><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/twitter.png" width="30" /></a>
 <a href="https://www.linkedin.com/in/olaore-fouad-860b4b180"><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/linkedin.png" width="30" /></a>
@@ -9,6 +9,8 @@
 - I <a href="https://medium.com/@olaolaore" target="_blank">write on topics</a> I feel the community would benefit from, it's my way of easing processes for engineers around the world, **If I've figured it out, you have.** 😁😁
 - I hope to contribute to OSS more (very soon)🎉🎉🎉
 - I am also fascinated by the business world, really.👴🏾
+
+#### Check out my portfolio at <a href="https://olaore.dev">olaore.dev</a>
 
 #### Languages and Tools
 
