@@ -1,9 +1,16 @@
-### Hi👋🏾, I'm <a href="https://olaore.dev">Fouad</a>. A developer, writer and a tech bro.
+<img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/fouad.png" width="100%" height="400" title="Olaore Fouad"/>
+
+
+
+<h3 align="center" style="font-weight: bold">
+Hi👋🏾, I'm <a href="https://olaore.dev">Fouad</a>. A developer, writer and a tech bro.
+</h3>
 
 <a href="https://twitter.com/olaolaore"><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/twitter.png" width="30" /></a>
 <a href="https://www.linkedin.com/in/olaore-fouad-860b4b180"><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/linkedin.png" width="30" /></a>
 
 - I am currently interning at Global Accelerex Ltd.☕
+- Building for Android at <a href="https://sharpsend.co"> Sharpsend</a>
 - I build native android apps with the Android mobile framework, and also web experiences using Angular.👤
 - I love solving problems when I can, while making sure optimal solutions are provided.😉
 - I <a href="https://medium.com/@olaolaore" target="_blank">write on topics</a> I feel the community would benefit from, it's my way of easing processes for engineers around the world, **If I've figured it out, you have.** 😁😁
