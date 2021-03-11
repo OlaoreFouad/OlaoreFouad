@@ -9,7 +9,7 @@ Hi👋🏾, I'm <a href="https://olaore.dev">Fouad</a>. A developer, writer and 
 <a href="https://twitter.com/olaolaore"><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/twitter.png" width="30" /></a>
 <a href="https://www.linkedin.com/in/olaore-fouad-860b4b180"><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/linkedin.png" width="30" /></a>
 
-- I am currently interning at Global Accelerex Ltd.☕
+- Building payment systems for the web at <a href="https://globalaccelerex.com">Global Accelerex Ltd.</a>☕
 - Building for Android at <a href="https://sharpsend.co"> Sharpsend</a>
 - I build native android apps with the Android mobile framework, and also web experiences using Angular.👤
 - I love solving problems when I can, while making sure optimal solutions are provided.😉
