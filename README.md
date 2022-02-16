@@ -3,7 +3,7 @@
 
 
 <h3 align="center" style="font-weight: bold">
-Hi👋🏾, I'm <a href="https://olaore.dev">Fouad</a>. A developer, writer and a tech bro.
+Hi👋🏾, I'm <a href="https://olaore.dev">Fouad</a>. A software engineer.
 </h3>
 
 <a href="https://twitter.com/olaolaore"><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/twitter.png" width="30" /></a>
