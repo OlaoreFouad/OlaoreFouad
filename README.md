@@ -9,7 +9,7 @@ Hi👋🏾, I'm <a href="https://confident-euler-31ae12.netlify.app">Fouad</a>. 
 <a href="https://twitter.com/olaolaore"><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/twitter.png" width="30" /></a>
 <a href="https://www.linkedin.com/in/olaore-fouad-860b4b180"><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/linkedin.png" width="30" /></a>
 
-- Building payment systems for the web at <a href="https://globalaccelerex.com">Global Accelerex Ltd.</a>☕
+- Building systems for the web at <a href="https://hubs.com">Hubs.</a>☕
 - I build native android apps with the Android mobile framework, and also web experiences using Angular.👤
 - I love solving problems when I can, while making sure optimal solutions are provided.😉
 - I <a href="https://medium.com/@olaolaore" target="_blank">write on topics</a> I feel the community would benefit from, it's my way of easing processes for engineers around the world, **If I've figured it out, you have.** 😁😁
