@@ -33,12 +33,10 @@ Hi👋🏾, I'm <a href="https://confident-euler-31ae12.netlify.app">Fouad</a>. 
 <code><img src="https://github.com/OlaoreFouad/OlaoreFouad/blob/master/images/visualstudio.svg" width="30" title="Visual Studio Code" /></code>
 
 ## Recent Blog Posts
-1. <a href="https://blog.devgenius.io/working-with-lines-and-paths-custom-views-on-android-part-3-80aba21a82e1" target="_blank">Working with Lines and Paths — Custom Views on Android — Part 3</a>
-2. <a href="https://blog.devgenius.io/canvas-translation-and-state-management-custom-views-on-android-part-2-1428171b4eef" target="_blank">Canvas Translation and State Management — Custom Views on Android — Part 2</a>
-3. <a href="https://blog.devgenius.io/an-introduction-to-custom-views-on-android-part-1-4972a10fb133" target="_blank">An Introduction to Custom Views on Android — Part 1</a>
-4. <a href="https://medium.com/@olaolaore/getting-started-with-spannables-on-android-46a051d484ec" target="_blank">Getting Started with Spannables on Android</a>
-5. <a href="https://medium.com/android-dev-hacks/a-kotlin-based-introduction-to-compound-components-on-android-part-3-eeb7c9250392" target="_blank">A Kotlin-based Introduction to Compound Components on Android - Part 3</a>
-6. <a href="https://medium.com/android-dev-hacks/a-kotlin-based-introduction-to-compound-components-on-android-part-2-f33d7179b5c8" target="_blank">A Kotlin-based Introduction to Compound Components on Android - Part 2</a>
+1. <a href="https://medium.com/dev-genius/getting-started-with-arcs-custom-views-on-android-part-4-81b2b349ae99" target="_blank">Getting started with Arcs — Custom Views on Android — Part 4</a>
+2. <a href="https://blog.devgenius.io/working-with-lines-and-paths-custom-views-on-android-part-3-80aba21a82e1" target="_blank">Working with Lines and Paths — Custom Views on Android — Part 3</a>
+3. <a href="https://blog.devgenius.io/canvas-translation-and-state-management-custom-views-on-android-part-2-1428171b4eef" target="_blank">Canvas Translation and State Management — Custom Views on Android — Part 2</a>
+4. <a href="https://blog.devgenius.io/an-introduction-to-custom-views-on-android-part-1-4972a10fb133" target="_blank">An Introduction to Custom Views on Android — Part 1</a>
 
 See all posts <a href="https://medium.com/@olaolaore">here</a>
 
